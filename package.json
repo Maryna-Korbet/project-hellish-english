@@ -6,7 +6,7 @@
   "homepage": "https://Maryna-Korbet.github.io/project-hellish-english",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url/project-hellish-english/"
+    "build": "parcel build src/*.html --public-url/project-hellish-english/"    
   },
   "repository": {
     "type": "git",
